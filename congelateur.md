@@ -9,6 +9,7 @@
 |---------|----------|-------------------|-------|
 | Poire surgelée | 1 | — | |
 | Soupe potiron | 1 | 2024 | |
+| Glace cône | 1 | — | |
 
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
@@ -28,5 +29,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 2
+- **Total articles :** 3
 - **⚠️ À consommer bientôt (> 6 mois) :** aucun
