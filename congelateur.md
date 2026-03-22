@@ -16,6 +16,7 @@
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | Courgettes | 2 paquets | — | |
+| Blettes | 2 paquets | 2021 | ⚠️ ancien |
 
 ## 📦 Tiroir 3
 | Produit | Quantité | Date de congélation | Notes |
@@ -30,5 +31,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 5
-- **⚠️ À consommer bientôt (> 6 mois) :** aucun
+- **Total articles :** 6
+- **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021)
