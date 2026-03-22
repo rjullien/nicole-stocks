@@ -84,7 +84,17 @@
 ### 🗄️ Haut
 | Produit | Quantité | Date de péremption | Notes |
 |---------|----------|--------------------|-------|
-| — | — | — | *À compléter* |
+| Biscuit apéro Pélardon | 1 | fév 2026 | ⚠️ bientôt |
+| Apéro mix | 1 | juil 2024 | ❌ périmé |
+| Chips de sarrasin | 1 | mai 2026 | |
+| Sucre Goya | 1 | juil 2026 | |
+| Cassonade | 1 | — | |
+| Sucre en poudre | 1 | — | |
+| Fructose | 1 | — | |
+| Miel de lavande | 1 | — | |
+| Épeautre soufflé | 1 | — | |
+| Quinoa soufflé | 1 | — | |
+| Chocolat Trader Joe's | 2 | — | |
 
 ### 🗄️ Bas
 | Produit | Quantité | Date de péremption | Notes |
@@ -106,6 +116,6 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 74
-- **❌ Périmés :** girolles (nov 2024), asperges blanches (déc 2023), crozets (mai 2024), riz fin (avril 2023), riz basmati (fév 2023), riz basmati bio (fév 2023), riz complet x4 (avril 2022), quinoa (avril 2021), masoor dal (août 2023)
-- **⚠️ Bientôt périmés :** petits pois carottes (juin 2025), haricots rouges (mai 2025), taboulé (juin 2025), purée mousseline (nov 2025), penne sans gluten (mars 2025), riz rouge (nov 2025), masoor whole dal (oct 2025), tortilla de blé (juin 2025)
+- **Total articles :** 86
+- **❌ Périmés :** girolles (nov 2024), asperges blanches (déc 2023), crozets (mai 2024), riz fin (avril 2023), riz basmati (fév 2023), riz basmati bio (fév 2023), riz complet x4 (avril 2022), quinoa (avril 2021), masoor dal (août 2023), apéro mix (juil 2024)
+- **⚠️ Bientôt périmés :** petits pois carottes (juin 2025), haricots rouges (mai 2025), taboulé (juin 2025), purée mousseline (nov 2025), penne sans gluten (mars 2025), riz rouge (nov 2025), masoor whole dal (oct 2025), tortilla de blé (juin 2025), biscuit apéro Pélardon (fév 2026)
