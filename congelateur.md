@@ -11,7 +11,7 @@
 | Soupe potiron | 1 | 2024 | |
 | Langoustes blanches | 2 paquets | — | |
 | Soupe légumes | 2 | — | |
-| Sauce osso bucco | 4 boîtes | — | |
+| Sauce osso bucco | 3 boîtes | — | |
 | Sauce blanquette de veau | 1 | — | |
 | Pot-au-feu | 1 boîte | — | |
 
