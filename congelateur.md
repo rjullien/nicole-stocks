@@ -30,6 +30,7 @@
 | Glace myrtille | 1 bac | — | |
 | Mister Freeze | 1 paquet | — | |
 | Glace cône | 1 | — | |
+| Glace Häagen-Dazs | 1 | — | |
 
 ## 📦 Tiroir 4
 | Produit | Quantité | Date de congélation | Notes |
@@ -76,5 +77,5 @@
 | Rouget | 1 filet | — | |
 
 ---
-- **Total articles :** 69
+- **Total articles :** 70
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
