@@ -40,8 +40,6 @@
 |---------|----------|-------------------|-------|
 | Myrtilles | 4 kg | — | |
 | Sauce tomate | 4 pots | — | |
-| Jus de coing | 2 pots | — | |
-| Jus de poire | 1 pot | — | |
 | Groseille noire | 7 bacs | — | |
 | Cassis | 2 boîtes | — | |
 
@@ -51,6 +49,8 @@
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | Oignons | 8 boîtes | — | |
+| Jus de coing | 2 pots | — | |
+| Jus de poire | 1 pot | — | |
 | Courge (pot) | 1 pot | — | |
 | Courge crue | 1 | — | |
 | Cranberries | 1 boîte | — | |
