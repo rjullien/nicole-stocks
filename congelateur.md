@@ -11,6 +11,7 @@
 | Soupe potiron | 1 | 2024 | |
 | Glace cône | 1 | — | |
 | Langoustes blanches | 2 paquets | — | |
+| Soupe légumes | 2 | — | |
 
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
@@ -39,5 +40,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 25
+- **Total articles :** 27
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
