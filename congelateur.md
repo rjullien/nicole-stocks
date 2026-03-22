@@ -15,7 +15,7 @@
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
+| Courgettes | 1 | — | |
 
 ## 📦 Tiroir 3
 | Produit | Quantité | Date de congélation | Notes |
@@ -30,5 +30,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 4
+- **Total articles :** 5
 - **⚠️ À consommer bientôt (> 6 mois) :** aucun
