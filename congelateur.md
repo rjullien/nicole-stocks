@@ -26,6 +26,10 @@
 |---------|----------|-------------------|-------|
 | Épinard haché | 1 | — | |
 | Trio de poivrons | 1 | — | |
+| Glace citron | 1 bac | — | |
+| Glace framboise | 1 bac | — | |
+| Glace myrtille | 1 bac | — | |
+| Mister Freeze | 1 paquet | — | |
 
 ## 📦 Tiroir 4
 | Produit | Quantité | Date de congélation | Notes |
@@ -72,5 +76,5 @@
 | Frites surgelées | 1 paquet | — | |
 
 ---
-- **Total articles :** 65
+- **Total articles :** 69
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
