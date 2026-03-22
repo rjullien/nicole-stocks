@@ -42,6 +42,7 @@
 | Sauce tomate | 4 pots | — | |
 | Jus de coing | 2 pots | — | |
 | Jus de poire | 1 pot | — | |
+| Groseille noire | 7 bacs | — | |
 
 ---
 
@@ -77,5 +78,5 @@
 | Rouget | 1 filet | — | |
 
 ---
-- **Total articles :** 70
+- **Total articles :** 77
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
