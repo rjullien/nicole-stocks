@@ -8,6 +8,7 @@
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | Poire surgelée | 1 | — | |
+| Soupe potiron | 1 | 2024 | |
 
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
@@ -27,5 +28,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 1
+- **Total articles :** 2
 - **⚠️ À consommer bientôt (> 6 mois) :** aucun
