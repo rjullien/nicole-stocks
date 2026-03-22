@@ -51,6 +51,7 @@
 | Oignons | 8 boîtes | — | |
 | Jus de coing | 2 pots | — | |
 | Jus de poire | 1 pot | — | |
+| Jus de framboise | 2 | — | |
 | Courge (pot) | 1 pot | — | |
 | Courge crue | 1 | — | |
 | Cranberries | 1 boîte | — | |
@@ -78,5 +79,5 @@
 | Rouget | 1 filet | — | |
 
 ---
-- **Total articles :** 77
+- **Total articles :** 79
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
