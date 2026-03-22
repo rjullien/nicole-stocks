@@ -4,37 +4,22 @@
 
 ---
 
-## 🥩 Viandes & Volailles
+## 📦 Tiroir 1
+| Produit | Quantité | Date de congélation | Notes |
+|---------|----------|-------------------|-------|
+| Poire surgelée | 1 | — | |
+
+## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | — | — | — | *À compléter* |
 
-## 🐟 Poissons & Fruits de mer
+## 📦 Tiroir 3
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | — | — | — | *À compléter* |
 
-## 🥦 Légumes
-| Produit | Quantité | Date de congélation | Notes |
-|---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
-
-## 🍞 Pains & Viennoiseries
-| Produit | Quantité | Date de congélation | Notes |
-|---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
-
-## 🍲 Plats préparés
-| Produit | Quantité | Date de congélation | Notes |
-|---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
-
-## 🍰 Desserts & Glaces
-| Produit | Quantité | Date de congélation | Notes |
-|---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
-
-## 🧊 Divers
+## 📦 Tiroir 4
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | — | — | — | *À compléter* |
@@ -42,5 +27,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 0
+- **Total articles :** 1
 - **⚠️ À consommer bientôt (> 6 mois) :** aucun
