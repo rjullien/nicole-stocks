@@ -99,7 +99,18 @@
 ### 🗄️ Bas
 | Produit | Quantité | Date de péremption | Notes |
 |---------|----------|--------------------|-------|
-| — | — | — | *À compléter* |
+| Capsules Nespresso | 4 paquets | — | |
+| Dolce Gusto Choco | 1 | — | |
+| Tisane vigne rouge | 1 | — | |
+| Tisane hibiscus | 1 | — | |
+| Tisane tutti frutti | 1 | — | |
+| Tisane Boost et Moi | 1 | — | |
+| Tisane cocktail digest | 3 | — | |
+| Tisane reine des prés | 1 | — | |
+| Tisane après-ski | 1 | — | |
+| Tisane thym des Marmottes | 1 | — | |
+| Tisane retour de soirée | 1 | — | |
+| Café moulu | 1 paquet | — | |
 
 ## 🗄️ Bas Droit
 | Produit | Quantité | Date de péremption | Notes |
@@ -116,6 +127,6 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 86
+- **Total articles :** 102
 - **❌ Périmés :** girolles (nov 2024), asperges blanches (déc 2023), crozets (mai 2024), riz fin (avril 2023), riz basmati (fév 2023), riz basmati bio (fév 2023), riz complet x4 (avril 2022), quinoa (avril 2021), masoor dal (août 2023), apéro mix (juil 2024)
 - **⚠️ Bientôt périmés :** petits pois carottes (juin 2025), haricots rouges (mai 2025), taboulé (juin 2025), purée mousseline (nov 2025), penne sans gluten (mars 2025), riz rouge (nov 2025), masoor whole dal (oct 2025), tortilla de blé (juin 2025), biscuit apéro Pélardon (fév 2026)
