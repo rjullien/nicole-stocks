@@ -4,7 +4,9 @@
 
 ---
 
-## 🗄️ Haut Gauche
+## Placard 1
+
+### 🗄️ Haut Gauche
 | Produit | Quantité | Date de péremption | Notes |
 |---------|----------|--------------------|-------|
 | Purée mousseline | 1 | nov 2025 | ⚠️ bientôt |
@@ -74,6 +76,20 @@
 | Médaillon de foie de canard | 1 | sept 2028 | |
 | Bloc de foie gras | 1 | nov 2027 | |
 | Bloc de foie gras Aldi | 1 | août 2027 | |
+
+---
+
+## Placard 2
+
+### 🗄️ Haut
+| Produit | Quantité | Date de péremption | Notes |
+|---------|----------|--------------------|-------|
+| — | — | — | *À compléter* |
+
+### 🗄️ Bas
+| Produit | Quantité | Date de péremption | Notes |
+|---------|----------|--------------------|-------|
+| — | — | — | *À compléter* |
 
 ## 🗄️ Bas Droit
 | Produit | Quantité | Date de péremption | Notes |
