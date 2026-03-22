@@ -22,7 +22,7 @@
 ## 📦 Tiroir 3
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
+| Épinard haché | 1 | — | |
 
 ## 📦 Tiroir 4
 | Produit | Quantité | Date de congélation | Notes |
@@ -32,5 +32,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 16
+- **Total articles :** 17
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
