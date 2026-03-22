@@ -19,6 +19,7 @@
 | Courgettes | 2 paquets | — | |
 | Blettes | 2 paquets | 2021 | ⚠️ ancien |
 | Blettes | 12 paquets | 2023 | ⚠️ ancien |
+| Blettes | 4 paquets | 2026 | |
 
 ## 📦 Tiroir 3
 | Produit | Quantité | Date de congélation | Notes |
@@ -55,5 +56,5 @@
 | Jus de coing | 3 bouteilles | — | |
 
 ---
-- **Total articles :** 46
+- **Total articles :** 50
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
