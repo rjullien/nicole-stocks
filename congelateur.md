@@ -39,6 +39,15 @@
 
 ---
 
-## 📊 Résumé
-- **Total articles :** 29
+## 📦 Tiroir 5
+| Produit | Quantité | Date de congélation | Notes |
+|---------|----------|-------------------|-------|
+| Cassis | 2 boîtes | — | |
+| Oignons | 8 boîtes | — | |
+| Courge (pot) | 1 pot | — | |
+| Courge crue | 1 | — | |
+| Cranberries | 1 boîte | — | |
+
+---
+- **Total articles :** 42
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
