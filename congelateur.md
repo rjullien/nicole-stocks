@@ -11,6 +11,9 @@
 | Soupe potiron | 1 | 2024 | |
 | Langoustes blanches | 2 paquets | — | |
 | Soupe légumes | 2 | — | |
+| Sauce osso bucco | 4 boîtes | — | |
+| Sauce blanquette de veau | 1 | — | |
+| Pot-au-feu | 1 boîte | — | |
 
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
@@ -39,9 +42,6 @@
 | Sauce tomate | 4 pots | — | |
 | Jus de coing | 2 pots | — | |
 | Jus de poire | 1 pot | — | |
-| Sauce osso bucco | 4 boîtes | — | |
-| Sauce blanquette de veau | 1 | — | |
-| Pot-au-feu | 1 boîte | — | |
 
 ---
 
