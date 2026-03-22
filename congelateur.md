@@ -40,7 +40,6 @@
 | Jus de poire | 1 pot | — | |
 | Sauce osso bucco | 4 boîtes | — | |
 | Sauce blanquette de veau | 1 | — | |
-| Rouget | 1 | — | |
 | Pot-au-feu | 1 boîte | — | |
 
 ---
@@ -74,6 +73,7 @@
 | Fromage râpé | 2 paquets | — | |
 | Fromage à raclette | 1 paquet | — | |
 | Frites surgelées | 1 paquet | — | |
+| Rouget | 1 filet | — | |
 
 ---
 - **Total articles :** 69
