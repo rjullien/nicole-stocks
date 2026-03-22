@@ -28,10 +28,16 @@
 ## 📦 Tiroir 4
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
-| — | — | — | *À compléter* |
+| Myrtilles | 4 kg | — | |
+| Sauce tomate | 4 pots | — | |
+| Jus de coing | 2 pots | — | |
+| Jus de poire | 1 pot | — | |
+| Sauce osso bucco | 4 boîtes | — | |
+| Sauce blanquette de veau | 1 | — | |
+| Rouget | 1 | — | |
 
 ---
 
 ## 📊 Résumé
-- **Total articles :** 18
+- **Total articles :** 25
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
