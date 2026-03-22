@@ -5,7 +5,8 @@ Inventaire des stocks maison, tenu à jour par Léa 🌙
 ## Fichiers
 
 - 🧊 [**Congélateur**](congelateur.md) — 79 articles sur 7 tiroirs
-- 🫙 [**Confitures**](confitures.md) — inventaire des pots
+- 🫙 [**Confitures**](confitures.md) — 76 pots sur 2 placards
+- 🏪 [**Réserves**](reserves.md) — placard 4 zones
 
 ## Comment ça marche ?
 
