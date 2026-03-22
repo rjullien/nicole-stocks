@@ -1,16 +1,17 @@
-# 🧊 Congélateur Nicole
+# 🏠 Stocks Nicole
 
-Inventaire du congélateur, tenu à jour par Léa 🌙
+Inventaire des stocks maison, tenu à jour par Léa 🌙
+
+## Fichiers
+
+- 🧊 [**Congélateur**](congelateur.md) — 79 articles sur 7 tiroirs
+- 🫙 [**Confitures**](confitures.md) — inventaire des pots
 
 ## Comment ça marche ?
 
-- **Nicole** dit à Léa ce qu'elle ajoute ou retire du congélateur
-- **Léa** met à jour le fichier `congelateur.md`
+- **Nicole** dit à Léa ce qu'elle ajoute ou retire
+- **Léa** met à jour les fichiers
 - **Tout est sauvegardé** avec l'historique des modifications
-
-## Consulter l'inventaire
-
-👉 Ouvrir le fichier [congelateur.md](congelateur.md)
 
 ---
 *Dernière mise à jour : 22 mars 2026*
