@@ -10,6 +10,7 @@
 | Poire surgelée | 1 | — | |
 | Soupe potiron | 1 | 2024 | |
 | Glace cône | 1 | — | |
+| Langoustes blanches | 2 paquets | — | |
 
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
@@ -29,5 +30,5 @@
 ---
 
 ## 📊 Résumé
-- **Total articles :** 3
+- **Total articles :** 4
 - **⚠️ À consommer bientôt (> 6 mois) :** aucun
