@@ -55,6 +55,22 @@
 |---------|----------|-------------------|-------|
 | Jus de coing | 3 bouteilles | — | |
 
+## 📦 Tiroir 7
+| Produit | Quantité | Date de congélation | Notes |
+|---------|----------|-------------------|-------|
+| Saint-Jacques | 1 paquet | — | |
+| Filet de bœuf | 2 | — | |
+| Filet de veau | 1 | — | |
+| Levure de boulanger | 2 paquets | — | |
+| Mini beurre | 1 paquet | — | |
+| Aubergine en gratin | 1 | — | |
+| Poireaux | 2 boîtes | — | |
+| Colombo de poulet | 1 boîte | — | |
+| Pâte à pizza | 1 | — | |
+| Fromage râpé | 2 paquets | — | |
+| Fromage à raclette | 1 paquet | — | |
+| Frites surgelées | 1 paquet | — | |
+
 ---
-- **Total articles :** 50
+- **Total articles :** 65
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
