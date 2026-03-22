@@ -36,6 +36,7 @@
 | Sauce osso bucco | 4 boîtes | — | |
 | Sauce blanquette de veau | 1 | — | |
 | Rouget | 1 | — | |
+| Pot-au-feu | 1 boîte | — | |
 
 ---
 
@@ -49,5 +50,5 @@
 | Cranberries | 1 boîte | — | |
 
 ---
-- **Total articles :** 42
+- **Total articles :** 43
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
