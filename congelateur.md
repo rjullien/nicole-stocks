@@ -15,7 +15,7 @@
 ## 📦 Tiroir 2
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
-| Courgettes | 1 | — | |
+| Courgettes | 2 paquets | — | |
 
 ## 📦 Tiroir 3
 | Produit | Quantité | Date de congélation | Notes |
