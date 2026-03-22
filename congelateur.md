@@ -9,7 +9,6 @@
 |---------|----------|-------------------|-------|
 | Poire surgelée | 1 | — | |
 | Soupe potiron | 1 | 2024 | |
-| Glace cône | 1 | — | |
 | Langoustes blanches | 2 paquets | — | |
 | Soupe légumes | 2 | — | |
 
@@ -30,6 +29,7 @@
 | Glace framboise | 1 bac | — | |
 | Glace myrtille | 1 bac | — | |
 | Mister Freeze | 1 paquet | — | |
+| Glace cône | 1 | — | |
 
 ## 📦 Tiroir 4
 | Produit | Quantité | Date de congélation | Notes |
