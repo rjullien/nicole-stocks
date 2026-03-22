@@ -49,6 +49,11 @@
 | Courge crue | 1 | — | |
 | Cranberries | 1 boîte | — | |
 
+## 📦 Tiroir 6
+| Produit | Quantité | Date de congélation | Notes |
+|---------|----------|-------------------|-------|
+| Jus de coing | 3 bouteilles | — | |
+
 ---
-- **Total articles :** 43
+- **Total articles :** 46
 - **⚠️ À consommer bientôt (> 6 mois) :** soupe potiron (2024), blettes (2021), blettes (2023)
