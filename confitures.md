@@ -1,6 +1,6 @@
 # 🫙 Inventaire Confitures Nicole
 
-> Dernière mise à jour : 22 mars 2026
+> Dernière mise à jour : 25 mars 2026
 
 ---
 
@@ -22,14 +22,14 @@
 ## 🗄️ Placard Droit
 | Confiture | Quantité | Date de fabrication | Notes |
 |-----------|----------|-------------------|-------|
-| Abricots | 23 pots | 2025 | |
+| Abricots | 22 pots | 2025 | |
 | Poires | 8 pots | 2025 | |
-| Prunes | 4 pots | 2025 | |
+| Prunes | 3 pots | 2025 | |
 | Framboises | 4 pots | 2025 | |
-| Groseilles cassis | 5 pots | 2025 | |
+| Groseilles cassis | 4 pots | 2025 | |
 
 ---
 
 ## 📊 Résumé
-- **Total pots :** 76
+- **Total pots :** 73
 - **⚠️ Anciens (> 3 ans) :** coings 2020, coings 2018, coings 2017, prune rouge 2016, cerises 2016, gelée cerise 2016
