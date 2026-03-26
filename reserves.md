@@ -18,8 +18,7 @@
 | Riz rouge | 1 | nov 2025 | ⚠️ bientôt |
 | Riz fin | 1 | avril 2023 | ❌ périmé |
 | Riz basmati | 1 | fév 2023 | ❌ périmé |
-| Riz basmati bio | 1 | fév 2023 | ❌ périmé |
-| Riz basmati bio | 1 | — | 🆕 ajouté 26/03/2026 |
+
 | Riz complet | 4 | avril 2022 | ❌ périmé |
 | Riz à dessert | 1 | fév 2026 | |
 | Riz biryani | 1 | juin 2028 | |
