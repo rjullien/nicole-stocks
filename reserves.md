@@ -58,7 +58,7 @@
 | Confit d'oignon | 1 | août 2027 | |
 | Pâté de chevreuil (micro) | 1 | oct 2028 | |
 | Pâté de canard (micro) | 1 | oct 2028 | |
-| Pâté Nyons (micro) | 1 | oct 2028 | |
+| ~~Pâté Nyons (micro)~~ | ~~1~~ | ~~oct 2028~~ | ✅ Pris par Nicole 27/03/2026 |
 | Pâté canard olive | 1 | déc 2028 | |
 | Rillettes de canard | 1 | juin 2028 | |
 | Rillettes pure canard | 1 | sept 2028 | |
