@@ -66,7 +66,6 @@
 |---------|----------|-------------------|-------|
 | Saint-Jacques | 1 paquet | — | |
 | Filet de bœuf | 2 | — | |
-
 | Levure de boulanger | 2 paquets | — | |
 | Mini beurre | 1 paquet | — | |
 | Aubergine en gratin | 1 | — | |
