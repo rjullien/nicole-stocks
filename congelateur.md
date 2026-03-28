@@ -48,7 +48,7 @@
 ## 📦 Tiroir 5
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
-| Oignons | 8 boîtes | — | |
+| Oignons | 7 boîtes | — | |
 | Jus de coing | 2 pots | — | |
 | Jus de poire | 1 pot | — | |
 | Jus de framboise | 2 | — | |
