@@ -74,12 +74,13 @@
 
 | Zone vannes | Emplacement | Stations |
 |-------------|-------------|----------|
-| **1. Local piscine** | Local technique piscine | S01, S02, S03, S04(KO), S05, S06(KO), S07, S08, S09(dispo), S10, S11(KO), S12 — départ principal pour tout le jardin |
-| **2. Cuisine d'été** | Cuisine d'été | À préciser |
+| **1. Local piscine** | Local technique piscine | Départ principal pour tout le jardin |
+| **2. Cuisine d'été** | Cuisine d'été | 4 vannes (stations à préciser) |
 | **3. Jardin haut** | Jardin haut | S13 (jets), S14 (goutte-à-goutte) |
 | **4. Devant maison** | Entrée | S15 |
 
 > Le local piscine est le point de départ de l'ensemble du réseau d'arrosage.
+> Le contrôleur OpenSprinkler est au fond du garage. S16 = pas de fil, disponible au garage.
 
 ---
 
