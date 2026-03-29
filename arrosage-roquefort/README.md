@@ -46,12 +46,12 @@
 | S07 | Rosiers et frais | Rosiers et fraisiers | ✅ |
 | S08 | Tomates bord pis | Tomates bord piscine | ✅ |
 | S09 | Tomates du fond | Tomates du fond | ⚙️ Vanne OK, tuyau pas connecté (dispo) |
-| S10 | Agrumes | Agrumes | ✅ Testé 29/03 (1m17s) |
+| S10 | Agrumes | Agrumes | ✅ Testé 29/03 OK |
 | S11 | KO Fraisiers sau | Fraisiers sauvages | ❌ FIL COUPÉ |
 | S12 | Tomates mur vann | Tomates mur vannes | ✅ |
-| S13 | Jets Jardin haut | Jets jardin haut | ✅ |
-| S14 | jardin haut gou | Jardin haut goutte-à-goutte | ✅ |
-| S15 | bord mur Entree | Bord mur entrée | ✅ |
+| S13 | Jets Jardin haut | Haricots verts + pommes de terre (jets) | ✅ Testé 29/03 OK |
+| S14 | jardin haut gou | Oranger, kiwis du haut, framboisiers (goutte-à-goutte) | ✅ Testé 29/03 OK |
+| S15 | bord mur Entree | Arbres entrée : cerisier, abricotier, kiwis (seuls kiwis testés OK) | ✅ Testé 29/03 OK — cerisier/abricotier à vérifier 2026 |
 | S16 | S16 | Non câblée | ⚙️ Disponible |
 
 ### ⚠️ Stations hors service
@@ -72,17 +72,21 @@
 
 ## 🌱 Cartographie plantes ↔ zones
 
-| Plante/Zone jardin | Stations |
-|---------------------|----------|
-| **Piscine** | S01 Bord piscine, S03 Tour piscine |
-| **Pastèques** | S02 |
-| **Jardin bas** | S05, S06 (jets) |
-| **Rosiers / Fraisiers** | S07, S08 |
-| **Tomates** | S09 (fond), S10 (bord piscine), S12 (mur vannes) |
-| **Agrumes** | S11 |
-| **Jardin haut** | S13 (jets), S14 (goutte-à-goutte ?) |
-| **Entrée** | S15 |
-| **Garage** | S04 (KO ?) |
+| Plante | Station(s) | Notes |
+|--------|-----------|-------|
+| **Piscine** | S01, S03 | Bord + tour piscine |
+| **Pastèques** | S02 | |
+| **Jardin bas** | S05, S06 (KO) | |
+| **Rosiers / Fraisiers** | S07 | |
+| **Tomates bord piscine** | S08 | |
+| **Tomates du fond** | S09 | Vanne dispo, tuyau pas connecté |
+| **Agrumes** | S10 | ✅ testé |
+| **Fraisiers sauvages** | S11 (KO) | Fil coupé |
+| **Tomates mur vannes** | S12 | |
+| **Haricots verts + PDT** | S13 | Jets |
+| **Oranger + Kiwis haut + Framboisiers** | S14 | Goutte-à-goutte |
+| **Cerisier + Abricotier + Kiwis entrée** | S15 | ⚠️ Seuls kiwis testés, cerisier/abricotier à vérifier 2026 |
+| **Garage** | S04 (KO) | |
 
 ---
 
@@ -114,7 +118,7 @@
 | 29/03/2026 | Création fichier, inventaire 16 stations depuis OpenSprinkler |
 | 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
 | 29/03/2026 | 3 vannes Zigbee hors ligne — à investiguer |
-| 29/03/2026 | S08-S11 renommés dans l'app pour correspondre à la réalité. S10 Agrumes testé OK (1m17s). S11 renommé "KO Fraisiers sau" |
+| 29/03/2026 | Tests OK : S10 (agrumes), S13 (haricots/PDT), S14 (oranger/kiwis/framboisiers), S15 (kiwis entrée OK, cerisier/abricotier à vérifier) |
 
 ---
 
