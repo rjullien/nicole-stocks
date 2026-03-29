@@ -35,29 +35,29 @@
 
 ## 🌍 Zones d'arrosage (16 stations)
 
-| # | Station | Nom complet (app) |
-|---|---------|-------------------|
-| S01 | **Bord piscine** | Bord piscine |
-| S02 | **Pastèques** | Pasteques |
-| S03 | **Tour piscine et...** | Tour piscine et |
-| S04 | **Ko Bord garage** | Ko Bord garage |
-| S05 | **Jardin du bas** | Jardin du bas |
-| S06 | **KoJets jardin du...** | KoJets jardin du |
-| S07 | **Rosiers et frais...** | Rosiers et frais |
-| S08 | **Fraisiers sauvag...** | ⚠️ Nom dans l'app : "Fraisiers sauvag" — arrose en réalité les **TOMATES BORD PISCINE** ✅ |
-| S09 | **Tomates du fond** | Tomates du fond — vanne OK mais tuyau pas connecté (dispo) |
-| S10 | **Tomates bord pis...** | ⚠️ Nom dans l'app : "Tomates bord pis" — arrose en réalité les **AGRUMES** ✅ |
-| S11 | ~~**Agrumes**~~ | ⚠️ Nom dans l'app : "Agrumes" — en réalité **FRAISIERS SAUVAGES** · FIL COUPÉ ❌ |
-| S12 | **Tomates mur vann...** | Tomates mur vann |
-| S13 | **Jets Jardin haut** | Jets Jardin haut |
-| S14 | **Jardin haut gou...** | jardin haut gou |
-| S15 | **Bord mur Entrée** | bord mur Entree |
-| S16 | **S16** | S16 |
+| # | Nom app | Réalité | État |
+|---|---------|---------|------|
+| S01 | Bord piscine | Bord piscine | ✅ |
+| S02 | Pasteques | Pastèques | ✅ |
+| S03 | Tour piscine et | Tour piscine | ✅ |
+| S04 | Ko Bord garage | Bord garage | ❌ KO |
+| S05 | Jardin du bas | Jardin du bas | ✅ |
+| S06 | KoJets jardin du | Jets jardin du bas | ❌ KO |
+| S07 | Rosiers et frais | Rosiers et fraisiers | ✅ |
+| S08 | Tomates bord pis | Tomates bord piscine | ✅ |
+| S09 | Tomates du fond | Tomates du fond | ⚙️ Vanne OK, tuyau pas connecté (dispo) |
+| S10 | Agrumes | Agrumes | ✅ Testé 29/03 (1m17s) |
+| S11 | KO Fraisiers sau | Fraisiers sauvages | ❌ FIL COUPÉ |
+| S12 | Tomates mur vann | Tomates mur vannes | ✅ |
+| S13 | Jets Jardin haut | Jets jardin haut | ✅ |
+| S14 | jardin haut gou | Jardin haut goutte-à-goutte | ✅ |
+| S15 | bord mur Entree | Bord mur entrée | ✅ |
+| S16 | S16 | Non identifiée | ❓ |
 
 ### ⚠️ Stations hors service
-- **S04** — "Ko Bord garage" → en panne (KO dans le nom)
-- **S06** — "KoJets jardin du" → en panne (KO dans le nom)
-- **S11** — Nommé "Agrumes" dans l'app mais arrose en réalité les **fraisiers sauvages** → **fil coupé**, plus d'arrosage
+- **S04** — Ko Bord garage → KO
+- **S06** — KoJets jardin du → KO
+- **S11** — KO Fraisiers sau → fil coupé quelque part
 
 ### Vannes Zigbee (×3) — ⚠️ TOUTES HORS LIGNE
 | Device | État | Possible usage |
@@ -114,7 +114,7 @@
 | 29/03/2026 | Création fichier, inventaire 16 stations depuis OpenSprinkler |
 | 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
 | 29/03/2026 | 3 vannes Zigbee hors ligne — à investiguer |
-| 29/03/2026 | S08 = Agrumes (✅ OK), S11 = Fraisiers sauvages (❌ fil coupé). Noms inversés dans l'app OpenSprinkler |
+| 29/03/2026 | S08-S11 renommés dans l'app pour correspondre à la réalité. S10 Agrumes testé OK (1m17s). S11 renommé "KO Fraisiers sau" |
 
 ---
 
