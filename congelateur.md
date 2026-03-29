@@ -66,6 +66,7 @@
 |---------|----------|-------------------|-------|
 | Saint-Jacques | 1 paquet | — | |
 | Filet de bœuf | 2 | — | |
+| Faux-filet de bœuf | 1 | 29/03/2026 | DLC avant congel : 04/2026 · À consommer avant 10/2026 |
 | Levure de boulanger | 2 paquets | — | |
 | Mini beurre | 1 paquet | — | |
 | Aubergine en gratin | 1 | — | |
