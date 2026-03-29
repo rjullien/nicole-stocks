@@ -45,7 +45,7 @@
 | S06 | **KoJets jardin du...** | KoJets jardin du |
 | S07 | **Rosiers et frais...** | Rosiers et frais |
 | S08 | **Fraisiers sauvag...** | ⚠️ Nom trompeur dans l'app — arrose en réalité les **AGRUMES** ✅ |
-| S09 | **Tomates du fond** | Tomates du fond |
+| S09 | **Tomates du fond** | Tomates du fond — vanne OK mais tuyau pas connecté (dispo) |
 | S10 | **Tomates bord pis...** | Tomates bord pis |
 | S11 | ~~**Agrumes**~~ | ⚠️ Nom trompeur dans l'app — en réalité **FRAISIERS SAUVAGES** · FIL COUPÉ ❌ |
 | S12 | **Tomates mur vann...** | Tomates mur vann |
