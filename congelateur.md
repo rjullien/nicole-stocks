@@ -61,7 +61,7 @@
 |---------|----------|-------------------|-------|
 | Jus de coing | 3 bouteilles | — | |
 
-## 📦 Tiroir 7
+## 📦 Tiroir 7 (Congélateur du frigo)
 | Produit | Quantité | Date de congélation | Notes |
 |---------|----------|-------------------|-------|
 | Saint-Jacques | 1 paquet | — | |
