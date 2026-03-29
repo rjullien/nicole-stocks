@@ -47,7 +47,7 @@
 | S08 | **Fraisiers sauvag...** | Fraisiers sauvag |
 | S09 | **Tomates du fond** | Tomates du fond |
 | S10 | **Tomates bord pis...** | Tomates bord pis |
-| S11 | ~~**Agrumes**~~ → **Fraisiers sauvages** | Agrumes ⚠️ FIL COUPÉ — réaffecté aux fraisiers sauvages (29/03) |
+| S11 | ~~**Agrumes**~~ → **Fraisiers sauvages** | Agrumes ⚠️ FIL COUPÉ — sortie réaffectée aux fraisiers sauvages qui n'avaient plus d'arrosage (29/03) |
 | S12 | **Tomates mur vann...** | Tomates mur vann |
 | S13 | **Jets Jardin haut** | Jets Jardin haut |
 | S14 | **Jardin haut gou...** | jardin haut gou |
