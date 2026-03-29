@@ -47,16 +47,17 @@
 | S08 | **Fraisiers sauvag...** | Fraisiers sauvag |
 | S09 | **Tomates du fond** | Tomates du fond |
 | S10 | **Tomates bord pis...** | Tomates bord pis |
-| S11 | **Agrumes** | Agrumes |
+| S11 | ~~**Agrumes**~~ → **Fraisiers sauvages** | Agrumes ⚠️ FIL COUPÉ — réaffecté aux fraisiers sauvages (29/03) |
 | S12 | **Tomates mur vann...** | Tomates mur vann |
 | S13 | **Jets Jardin haut** | Jets Jardin haut |
 | S14 | **Jardin haut gou...** | jardin haut gou |
 | S15 | **Bord mur Entrée** | bord mur Entree |
 | S16 | **S16** | S16 |
 
-### ⚠️ Stations potentiellement KO
-- **S04** — "Ko Bord garage" → le "Ko" dans le nom = en panne ?
-- **S06** — "KoJets jardin du" → idem ?
+### ⚠️ Stations hors service
+- **S04** — "Ko Bord garage" → en panne (KO dans le nom)
+- **S06** — "KoJets jardin du" → en panne (KO dans le nom)
+- **S11** — "Agrumes" → **fil coupé quelque part**, sortie réaffectée aux fraisiers sauvages (29/03/2026)
 
 ### Vannes Zigbee (×3) — ⚠️ TOUTES HORS LIGNE
 | Device | État | Possible usage |
@@ -113,6 +114,7 @@
 | 29/03/2026 | Création fichier, inventaire 16 stations depuis OpenSprinkler |
 | 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
 | 29/03/2026 | 3 vannes Zigbee hors ligne — à investiguer |
+| 29/03/2026 | S11 (Agrumes) fil coupé — sortie réaffectée aux fraisiers sauvages |
 
 ---
 
