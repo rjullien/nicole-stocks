@@ -84,7 +84,7 @@
 ### 🗄️ Haut
 | Produit | Quantité | Date de péremption | Notes |
 |---------|----------|--------------------|-------|
-| Biscuit apéro Pélardon | 1 | fév 2026 | ⚠️ bientôt |
+| ~~Biscuit apéro Pélardon~~ | ~~1~~ | ~~fév 2026~~ | ✅ Consommé 29/03/2026 |
 | Apéro mix | 1 | juil 2024 | ❌ périmé |
 | Chips de sarrasin | 1 | mai 2026 | |
 | Sucre Goya | 1 | juil 2026 | |
