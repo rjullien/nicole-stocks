@@ -75,7 +75,7 @@
 | Zone vannes | Emplacement | Stations |
 |-------------|-------------|----------|
 | **1. Local piscine** | Local technique piscine | Départ principal pour tout le jardin |
-| **2. Cuisine d'été** | Cuisine d'été | 4 vannes : Agrumes (S10), Tomates bord piscine (S08), Tomates mur vannes (S12), Fraisiers sauvages (S11 KO) |
+| **2. Cuisine d'été** | Cuisine d'été | 5 vannes : Tomates bord piscine (S08), Tomates du fond (S09 dispo), Agrumes (S10), Fraisiers sauvages (S11 KO), Tomates mur vannes (S12) |
 | **3. Jardin haut** | Jardin haut | S13 (jets), S14 (goutte-à-goutte) |
 | **4. Devant maison** | Entrée | S15 |
 
