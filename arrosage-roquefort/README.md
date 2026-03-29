@@ -44,10 +44,10 @@
 | S05 | **Jardin du bas** | Jardin du bas |
 | S06 | **KoJets jardin du...** | KoJets jardin du |
 | S07 | **Rosiers et frais...** | Rosiers et frais |
-| S08 | **Fraisiers sauvag...** | Fraisiers sauvag ⚠️ FIL COUPÉ — plus d'arrosage |
+| S08 | **Fraisiers sauvag...** | Fraisiers sauvag ✅ |
 | S09 | **Tomates du fond** | Tomates du fond |
 | S10 | **Tomates bord pis...** | Tomates bord pis |
-| S11 | **Agrumes** | Agrumes ✅ fonctionne |
+| S11 | ~~**Agrumes**~~ → **Fraisiers sauvages** | Agrumes ⚠️ FIL COUPÉ — sortie rebranchée sur fraisiers sauvages (29/03) |
 | S12 | **Tomates mur vann...** | Tomates mur vann |
 | S13 | **Jets Jardin haut** | Jets Jardin haut |
 | S14 | **Jardin haut gou...** | jardin haut gou |
@@ -57,7 +57,7 @@
 ### ⚠️ Stations hors service
 - **S04** — "Ko Bord garage" → en panne (KO dans le nom)
 - **S06** — "KoJets jardin du" → en panne (KO dans le nom)
-- **S08** — "Fraisiers sauvages" → **fil coupé quelque part**, plus d'arrosage
+- **S11** — "Agrumes" → **fil coupé**, sortie rebranchée physiquement sur fraisiers sauvages (29/03). Agrumes plus d'arrosage auto.
 
 ### Vannes Zigbee (×3) — ⚠️ TOUTES HORS LIGNE
 | Device | État | Possible usage |
@@ -114,7 +114,7 @@
 | 29/03/2026 | Création fichier, inventaire 16 stations depuis OpenSprinkler |
 | 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
 | 29/03/2026 | 3 vannes Zigbee hors ligne — à investiguer |
-| 29/03/2026 | S08 (Fraisiers sauvages) fil coupé — plus d'arrosage. S11 (Agrumes) OK |
+| 29/03/2026 | S11 (Agrumes) fil coupé — sortie rebranchée sur fraisiers sauvages. Agrumes plus d'arrosage auto |
 
 ---
 
