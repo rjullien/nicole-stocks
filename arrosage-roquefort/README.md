@@ -10,16 +10,16 @@
 | Composant | Détail |
 |-----------|--------|
 | **Contrôleur** | OpenSprinkler |
-| **Nom** | Roquefort interieur |
+| **Emplacement** | Fond du garage |
 | **IP locale** | 10.182.207.54 |
+| **Interface** | http://10.182.207.54 |
 | **Intégration** | Home Assistant |
 | **Taux d'arrosage** | 60% (ajustement météo auto) |
-| **Météo** | 15.6°C, couvert (29/03/2026) |
 
 ### Entités Home Assistant
 | Entity | Rôle |
 |--------|------|
-| `automation.gestion_arrosage_roquefort` | Rain delay auto si pluie élevée |
+| `automation.gestion_arrosage_roquefort` | Rain delay auto si pluie > 3mm |
 | `sensor.opensprinkler_rain_delay` | État du rain delay |
 | `input_select.pluie_pour_arreter_arrosage` | Seuil de pluie (actuellement : 3mm) |
 
@@ -33,104 +33,87 @@
 
 ---
 
-## 🌍 Zones d'arrosage (16 stations)
-
-| # | Nom app | Réalité | État |
-|---|---------|---------|------|
-| S01 | Bord piscine | Bord piscine | ✅ |
-| S02 | Pasteques | Pastèques | ✅ |
-| S03 | Tour piscine et | Tour piscine | ✅ |
-| S04 | Ko Bord garage | Bord garage | ❌ KO |
-| S05 | Jardin du bas | Jardin du bas | ✅ |
-| S06 | KoJets jardin du | Jets jardin du bas | ❌ KO |
-| S07 | Rosiers et frais | Rosiers et fraisiers | ✅ |
-| S08 | Tomates bord pis | Tomates bord piscine | ✅ |
-| S09 | Tomates du fond | Tomates du fond | ⚙️ Vanne OK, tuyau pas connecté (dispo) |
-| S10 | Agrumes | Agrumes | ✅ Testé 29/03 OK |
-| S11 | KO Fraisiers sau | Fraisiers sauvages | ❌ FIL COUPÉ |
-| S12 | Tomates mur vann | Tomates mur vannes | ✅ |
-| S13 | Jets Jardin haut | Haricots verts + pommes de terre (jets) | ✅ Testé 29/03 OK |
-| S14 | jardin haut gou | Oranger, kiwis du haut, framboisiers (goutte-à-goutte) | ✅ Testé 29/03 OK |
-| S15 | bord mur Entree | Arbres entrée : cerisier, abricotier, kiwis (seuls kiwis testés OK) | ✅ Testé 29/03 OK — cerisier/abricotier à vérifier 2026 |
-| S16 | S16 | Non câblée | ⚙️ Disponible |
-
-### ⚠️ Stations hors service
-- **S04** — Ko Bord garage → KO
-- **S06** — KoJets jardin du → KO
-- **S11** — KO Fraisiers sau → fil coupé quelque part
-
-### Vannes Zigbee (×3) — ⚠️ TOUTES HORS LIGNE
-| Device | État | Possible usage |
-|--------|------|---------------|
-| `0x28dba7fffe6d4928` | unavailable | Vanne irrigation Zigbee |
-| `0x28dba7fffe6d9f30` | unavailable | Vanne irrigation Zigbee |
-| `0x28dba7fffe6daa1a` | unavailable | Vanne irrigation Zigbee |
-
-→ Batteries mortes ou déconnectées du réseau Zigbee ?
-
----
-
 ## 🔧 Réseau de vannes — 4 zones physiques
 
-| Zone vannes | Emplacement | Stations |
-|-------------|-------------|----------|
-| **1. Local piscine** | Local technique piscine | Départ principal pour tout le jardin |
-| **2. Cuisine d'été** | Cuisine d'été | 5 vannes : Tomates bord piscine (S08), Tomates du fond (S09 dispo), Agrumes (S10), Fraisiers sauvages (S11 KO), Tomates mur vannes (S12) |
-| **3. Jardin haut** | Jardin haut | S13 (jets), S14 (goutte-à-goutte) |
-| **4. Devant maison** | Entrée | S15 |
+| # | Zone | Emplacement | Stations |
+|---|------|-------------|----------|
+| 1 | **Local piscine** | Local technique piscine | S01→S07 — départ principal pour tout le jardin |
+| 2 | **Cuisine d'été** | Cuisine d'été | S08, S09, S10, S11(KO), S12 — 5 vannes |
+| 3 | **Jardin haut** | Jardin haut | S13 (jets), S14 (goutte-à-goutte) |
+| 4 | **Devant maison** | Entrée | S15 |
 
-> Le local piscine est le point de départ de l'ensemble du réseau d'arrosage.
-> Le contrôleur OpenSprinkler est au fond du garage. S16 = pas de fil, disponible au garage.
-
----
-
-| Plante | Station(s) | Notes |
-|--------|-----------|-------|
-| **Piscine** | S01, S03 | Bord + tour piscine |
-| **Pastèques** | S02 | |
-| **Jardin bas** | S05, S06 (KO) | |
-| **Rosiers / Fraisiers** | S07 | |
-| **Tomates bord piscine** | S08 | |
-| **Tomates du fond** | S09 | Vanne dispo, tuyau pas connecté |
-| **Agrumes** | S10 | ✅ testé |
-| **Fraisiers sauvages** | S11 (KO) | Fil coupé |
-| **Tomates mur vannes** | S12 | |
-| **Haricots verts + PDT** | S13 | Jets |
-| **Oranger + Kiwis haut + Framboisiers** | S14 | Goutte-à-goutte |
-| **Cerisier + Abricotier + Kiwis entrée** | S15 | ⚠️ Seuls kiwis testés, cerisier/abricotier à vérifier 2026 |
-| **Garage** | S04 (KO) | |
+> Le local piscine est le point de départ de l'ensemble du réseau.
+> S16 = pas de fil, disponible au garage (près du contrôleur).
 
 ---
 
-## 📅 Programmes
+## 🌍 Les 16 stations
 
-> ⚠️ À compléter — les programmes sont dans l'interface OpenSprinkler (http://10.182.207.54)
+| # | Nom app | Ce que ça arrose | Zone vannes | État |
+|---|---------|------------------|-------------|------|
+| S01 | Bord piscine | Bord piscine | Local piscine | ✅ |
+| S02 | Pasteques | Pastèques | Local piscine | ✅ |
+| S03 | Tour piscine et | Tour piscine | Local piscine | ✅ |
+| S04 | Ko Bord garage | Bord garage | Local piscine | ❌ KO |
+| S05 | Jardin du bas | Jardin du bas | Local piscine | ✅ |
+| S06 | KoJets jardin du | Jets jardin du bas | Local piscine | ❌ KO |
+| S07 | Rosiers et frais | Rosiers et fraisiers | Local piscine | ✅ |
+| S08 | Tomates bord pis | Tomates bord piscine | Cuisine d'été | ✅ |
+| S09 | Tomates du fond | Tomates du fond | Cuisine d'été | ⚙️ Vanne OK, tuyau pas connecté (dispo) |
+| S10 | Agrumes | Agrumes | Cuisine d'été | ✅ Testé 29/03 |
+| S11 | KO Fraisiers sau | Fraisiers sauvages | Cuisine d'été | ❌ Fil coupé |
+| S12 | Tomates mur vann | Tomates mur vannes | Cuisine d'été | ✅ |
+| S13 | Jets Jardin haut | Haricots verts + pommes de terre (jets) | Jardin haut | ✅ Testé 29/03 |
+| S14 | jardin haut gou | Oranger, kiwis du haut, framboisiers (goutte-à-goutte) | Jardin haut | ✅ Testé 29/03 |
+| S15 | bord mur Entree | Cerisier, abricotier, kiwis | Devant maison | ✅ Testé 29/03 (kiwis OK, cerisier/abricotier à vérifier) |
+| S16 | S16 | — | Garage | ⚙️ Non câblée, disponible |
 
-**Programme Manuel** — Dernière exécution :
-- Fraisiers sauvag (S08) : 1m07s le 29/03/2026 à 15:13
+### Résumé
+- ✅ **10 actives** : S01, S02, S03, S05, S07, S08, S10, S12, S13, S14, S15
+- ⚙️ **2 disponibles** : S09 (vanne OK), S16 (non câblée)
+- ❌ **3 KO** : S04, S06, S11 (fil coupé)
+
+### ⚠️ À vérifier en 2026
+- **S15** : cerisier et abricotier — seuls les kiwis ont été testés
+- **S11** : retrouver et réparer le fil coupé (fraisiers sauvages)
+
+---
+
+## 📡 Vannes Zigbee (×3) — TOUTES HORS LIGNE
+
+| Device | État |
+|--------|------|
+| `0x28dba7fffe6d4928` | unavailable |
+| `0x28dba7fffe6d9f30` | unavailable |
+| `0x28dba7fffe6daa1a` | unavailable |
+
+→ Batteries mortes ou déconnectées du réseau Zigbee ? À investiguer.
 
 ---
 
 ## 📡 Capteurs météo liés
 
-| Capteur | Valeur (29/03) | Entity |
-|---------|---------------|--------|
-| Température | 18.2°C | `sensor.roquefort_temperature` |
-| Humidité | 39.6% | `sensor.roquefort_humidite` |
-| Précipitations | 0.0 mm | `sensor.roquefort_precipitation` |
-| Chance de pluie | 0% | `sensor.roquefort_les_pins_rain_chance` |
-| UV | 4 | `sensor.roquefort_les_pins_uv` |
+| Capteur | Entity |
+|---------|--------|
+| Température | `sensor.roquefort_temperature` |
+| Humidité | `sensor.roquefort_humidite` |
+| Précipitations | `sensor.roquefort_precipitation` |
+| Chance de pluie | `sensor.roquefort_les_pins_rain_chance` |
 
 ---
 
-## 📝 Notes
+## 📝 Journal
 
 | Date | Action |
 |------|--------|
-| 29/03/2026 | Création fichier, inventaire 16 stations depuis OpenSprinkler |
-| 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
+| 29/03/2026 | Création fichier — inventaire complet 16 stations depuis app OpenSprinkler |
+| 29/03/2026 | Noms app corrigés : S08→Tomates bord pis, S10→Agrumes, S11→KO Fraisiers sau |
+| 29/03/2026 | Tests manuels OK : S10 (agrumes), S13 (haricots/PDT), S14 (oranger/kiwis/framboisiers), S15 (kiwis) |
+| 29/03/2026 | S11 fil coupé identifié — fraisiers sauvages plus d'arrosage auto |
+| 29/03/2026 | S09 vanne OK mais tuyau pas connecté — sortie disponible |
+| 29/03/2026 | 4 zones vannes documentées : local piscine, cuisine d'été, jardin haut, devant maison |
 | 29/03/2026 | 3 vannes Zigbee hors ligne — à investiguer |
-| 29/03/2026 | Tests OK : S10 (agrumes), S13 (haricots/PDT), S14 (oranger/kiwis/framboisiers), S15 (kiwis entrée OK, cerisier/abricotier à vérifier) |
+| 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
 
 ---
 
