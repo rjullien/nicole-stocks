@@ -10,8 +10,11 @@
 | Composant | Détail |
 |-----------|--------|
 | **Contrôleur** | OpenSprinkler |
+| **Nom** | Roquefort interieur |
 | **IP locale** | 10.182.207.54 |
 | **Intégration** | Home Assistant |
+| **Taux d'arrosage** | 60% (ajustement météo auto) |
+| **Météo** | 15.6°C, couvert (29/03/2026) |
 
 ### Entités Home Assistant
 | Entity | Rôle |
@@ -20,47 +23,86 @@
 | `sensor.opensprinkler_rain_delay` | État du rain delay |
 | `input_select.pluie_pour_arreter_arrosage` | Seuil de pluie (actuellement : 3mm) |
 
-### Capteurs météo liés
-| Capteur | Entity |
-|---------|--------|
-| Température | `sensor.roquefort_temperature` |
-| Humidité | `sensor.roquefort_humidite` |
-| Précipitations | `sensor.roquefort_precipitation` |
-| Chance de pluie | `sensor.roquefort_les_pins_rain_chance` |
+### Arrosage plantes intérieur (automations HA séparées)
+| Automation | État |
+|-----------|------|
+| `automation.arrosage_plante_grasse_salon` | ✅ on |
+| `automation.arrosage_petite_orchidee` | ✅ on |
+| `automation.arrosage_agrumes_ko` | ✅ on |
+| `automation.arrosage_plante_verte_salon` | ❌ off |
 
 ---
 
-## 🌍 Zones d'arrosage
+## 🌍 Zones d'arrosage (16 stations)
 
-> ⚠️ À compléter avec les zones réelles configurées dans OpenSprinkler
+| # | Station | Description | Notes |
+|---|---------|-------------|-------|
+| S01 | **Bord piscine** | Abords piscine | |
+| S02 | **Pastèques** | Zone pastèques | |
+| S03 | **Tour piscine et...** | Pourtour piscine | Nom tronqué |
+| S04 | **Ko Bord garage** | Bord garage (KO ?) | ⚠️ Vérifier si fonctionnel |
+| S05 | **Jardin du bas** | Jardin bas | |
+| S06 | **KoJets jardin du...** | Jets jardin (KO ?) | ⚠️ Vérifier si fonctionnel |
+| S07 | **Rosiers et frais...** | Rosiers et fraisiers ? | |
+| S08 | **Fraisiers sauvag...** | Fraisiers sauvages | Dernière activée : 29/03 15:13 (1m07s) |
+| S09 | **Tomates du fond** | Tomates fond du jardin | |
+| S10 | **Tomates bord pis...** | Tomates bord piscine | |
+| S11 | **Agrumes** | Agrumes | |
+| S12 | **Tomates mur vann...** | Tomates mur vannes | |
+| S13 | **Jets Jardin haut** | Jets jardin haut | |
+| S14 | **Jardin haut gou...** | Jardin haut goutte-à-goutte ? | |
+| S15 | **Bord mur Entrée** | Bord mur d'entrée | |
+| S16 | **S16** | Non nommée | À identifier |
 
-| Zone | Description | Plantes | Durée | Fréquence |
-|------|-------------|---------|-------|-----------|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+### ⚠️ Stations potentiellement KO
+- **S04** — "Ko Bord garage" → le "Ko" dans le nom = en panne ?
+- **S06** — "KoJets jardin du" → idem ?
+
+### Vannes Zigbee (×3) — ⚠️ TOUTES HORS LIGNE
+| Device | État | Possible usage |
+|--------|------|---------------|
+| `0x28dba7fffe6d4928` | unavailable | Vanne irrigation Zigbee |
+| `0x28dba7fffe6d9f30` | unavailable | Vanne irrigation Zigbee |
+| `0x28dba7fffe6daa1a` | unavailable | Vanne irrigation Zigbee |
+
+→ Batteries mortes ou déconnectées du réseau Zigbee ?
 
 ---
 
-## 📅 Programmes par saison
+## 🌱 Cartographie plantes ↔ zones
 
-### 🌞 Été (juin → septembre)
-| Zone | Jours | Heure | Durée |
-|------|-------|-------|-------|
-| | | | |
+| Plante/Zone jardin | Stations |
+|---------------------|----------|
+| **Piscine** | S01 Bord piscine, S03 Tour piscine |
+| **Pastèques** | S02 |
+| **Jardin bas** | S05, S06 (jets) |
+| **Rosiers / Fraisiers** | S07, S08 |
+| **Tomates** | S09 (fond), S10 (bord piscine), S12 (mur vannes) |
+| **Agrumes** | S11 |
+| **Jardin haut** | S13 (jets), S14 (goutte-à-goutte ?) |
+| **Entrée** | S15 |
+| **Garage** | S04 (KO ?) |
 
-### 🌸 Mi-saison (avril → mai, octobre)
-| Zone | Jours | Heure | Durée |
-|------|-------|-------|-------|
-| | | | |
+---
 
-### ❄️ Hiver (novembre → mars)
-- Arrosage réduit ou coupé
+## 📅 Programmes
+
+> ⚠️ À compléter — les programmes sont dans l'interface OpenSprinkler (http://10.182.207.54)
+
+**Programme Manuel** — Dernière exécution :
+- Fraisiers sauvag (S08) : 1m07s le 29/03/2026 à 15:13
+
+---
+
+## 📡 Capteurs météo liés
+
+| Capteur | Valeur (29/03) | Entity |
+|---------|---------------|--------|
+| Température | 18.2°C | `sensor.roquefort_temperature` |
+| Humidité | 39.6% | `sensor.roquefort_humidite` |
+| Précipitations | 0.0 mm | `sensor.roquefort_precipitation` |
+| Chance de pluie | 0% | `sensor.roquefort_les_pins_rain_chance` |
+| UV | 4 | `sensor.roquefort_les_pins_uv` |
 
 ---
 
@@ -68,7 +110,9 @@
 
 | Date | Action |
 |------|--------|
-| 29/03/2026 | Création du fichier — à compléter avec config OpenSprinkler |
+| 29/03/2026 | Création fichier, inventaire 16 stations depuis OpenSprinkler |
+| 29/03/2026 | Taux d'arrosage à 60% (ajustement météo auto) |
+| 29/03/2026 | 3 vannes Zigbee hors ligne — à investiguer |
 
 ---
 
