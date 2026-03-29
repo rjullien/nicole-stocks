@@ -52,7 +52,7 @@
 | S13 | Jets Jardin haut | Jets jardin haut | ✅ |
 | S14 | jardin haut gou | Jardin haut goutte-à-goutte | ✅ |
 | S15 | bord mur Entree | Bord mur entrée | ✅ |
-| S16 | S16 | Non identifiée | ❓ |
+| S16 | S16 | Non câblée | ⚙️ Disponible |
 
 ### ⚠️ Stations hors service
 - **S04** — Ko Bord garage → KO
