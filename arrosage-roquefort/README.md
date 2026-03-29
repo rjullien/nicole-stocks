@@ -44,10 +44,10 @@
 | S05 | **Jardin du bas** | Jardin du bas |
 | S06 | **KoJets jardin du...** | KoJets jardin du |
 | S07 | **Rosiers et frais...** | Rosiers et frais |
-| S08 | **Fraisiers sauvag...** | ⚠️ Nom trompeur dans l'app — arrose en réalité les **AGRUMES** ✅ |
+| S08 | **Fraisiers sauvag...** | ⚠️ Nom dans l'app : "Fraisiers sauvag" — arrose en réalité les **TOMATES BORD PISCINE** ✅ |
 | S09 | **Tomates du fond** | Tomates du fond — vanne OK mais tuyau pas connecté (dispo) |
-| S10 | **Tomates bord pis...** | Tomates bord pis |
-| S11 | ~~**Agrumes**~~ | ⚠️ Nom trompeur dans l'app — en réalité **FRAISIERS SAUVAGES** · FIL COUPÉ ❌ |
+| S10 | **Tomates bord pis...** | ⚠️ Nom dans l'app : "Tomates bord pis" — arrose en réalité les **AGRUMES** ✅ |
+| S11 | ~~**Agrumes**~~ | ⚠️ Nom dans l'app : "Agrumes" — en réalité **FRAISIERS SAUVAGES** · FIL COUPÉ ❌ |
 | S12 | **Tomates mur vann...** | Tomates mur vann |
 | S13 | **Jets Jardin haut** | Jets Jardin haut |
 | S14 | **Jardin haut gou...** | jardin haut gou |
