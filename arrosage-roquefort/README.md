@@ -35,24 +35,24 @@
 
 ## 🌍 Zones d'arrosage (16 stations)
 
-| # | Station | Description | Notes |
-|---|---------|-------------|-------|
-| S01 | **Bord piscine** | Abords piscine | |
-| S02 | **Pastèques** | Zone pastèques | |
-| S03 | **Tour piscine et...** | Pourtour piscine | Nom tronqué |
-| S04 | **Ko Bord garage** | Bord garage (KO ?) | ⚠️ Vérifier si fonctionnel |
-| S05 | **Jardin du bas** | Jardin bas | |
-| S06 | **KoJets jardin du...** | Jets jardin (KO ?) | ⚠️ Vérifier si fonctionnel |
-| S07 | **Rosiers et frais...** | Rosiers et fraisiers ? | |
-| S08 | **Fraisiers sauvag...** | Fraisiers sauvages | Dernière activée : 29/03 15:13 (1m07s) |
-| S09 | **Tomates du fond** | Tomates fond du jardin | |
-| S10 | **Tomates bord pis...** | Tomates bord piscine | |
-| S11 | **Agrumes** | Agrumes | |
-| S12 | **Tomates mur vann...** | Tomates mur vannes | |
-| S13 | **Jets Jardin haut** | Jets jardin haut | |
-| S14 | **Jardin haut gou...** | Jardin haut goutte-à-goutte ? | |
-| S15 | **Bord mur Entrée** | Bord mur d'entrée | |
-| S16 | **S16** | Non nommée | À identifier |
+| # | Station | Nom complet (app) |
+|---|---------|-------------------|
+| S01 | **Bord piscine** | Bord piscine |
+| S02 | **Pastèques** | Pasteques |
+| S03 | **Tour piscine et...** | Tour piscine et |
+| S04 | **Ko Bord garage** | Ko Bord garage |
+| S05 | **Jardin du bas** | Jardin du bas |
+| S06 | **KoJets jardin du...** | KoJets jardin du |
+| S07 | **Rosiers et frais...** | Rosiers et frais |
+| S08 | **Fraisiers sauvag...** | Fraisiers sauvag |
+| S09 | **Tomates du fond** | Tomates du fond |
+| S10 | **Tomates bord pis...** | Tomates bord pis |
+| S11 | **Agrumes** | Agrumes |
+| S12 | **Tomates mur vann...** | Tomates mur vann |
+| S13 | **Jets Jardin haut** | Jets Jardin haut |
+| S14 | **Jardin haut gou...** | jardin haut gou |
+| S15 | **Bord mur Entrée** | bord mur Entree |
+| S16 | **S16** | S16 |
 
 ### ⚠️ Stations potentiellement KO
 - **S04** — "Ko Bord garage" → le "Ko" dans le nom = en panne ?
