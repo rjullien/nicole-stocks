@@ -1,6 +1,6 @@
 # 🏪 Réserves Nicole
 
-> Dernière mise à jour : 22 mars 2026
+> Dernière mise à jour : 1 avril 2026
 
 ---
 
@@ -33,7 +33,7 @@
 | Petits pois carottes | 1 | juin 2025 | ⚠️ bientôt |
 | Lentilles | 2 | déc 2028 | |
 | Pois chiches | 2 boîtes | janv 2029 | |
-| Pois chiches | 1 boîte | mars 2027 | |
+| ~~Pois chiches~~ | ~~1 boîte~~ | ~~mars 2027~~ | ✅ Pris par Nicole 01/04/2026 |
 | Haricots rouges | 2 | mai 2025 | ⚠️ bientôt |
 | Marrons | 1 | déc 2027 | |
 | Lentilles (grosse boîte) | 1 | juin 2027 | |
@@ -50,7 +50,7 @@
 ## 🗄️ Haut Droit
 | Produit | Quantité | Date de péremption | Notes |
 |---------|----------|--------------------|-------|
-| Thon | 4 boîtes | juin 2028 | |
+| Thon | 3 boîtes | juin 2028 | 1 boîte prise par Nicole 01/04/2026 |
 | Confit de Noël | 1 | juin 2028 | |
 | Chutney de figues | 1 | juil 2027 | |
 | Confit d'oignon | 1 | fév 2027 | |
