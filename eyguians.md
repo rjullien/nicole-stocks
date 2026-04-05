@@ -31,6 +31,14 @@
 | Inconnu | 6 pots | ? | Date inconnue |
 | Coing (gelée) | 1 pot | 2015 | |
 
+### Étagère 2
+
+| Produit | Quantité | Notes |
+|---------|----------|-------|
+| Tilleul sec | — | |
+| Thym sec | — | |
+| Laurier sec | — | |
+
 ### Étagère 3
 
 | Parfum | Quantité | Année | Notes |
