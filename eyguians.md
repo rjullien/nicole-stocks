@@ -9,7 +9,7 @@
 
 | Contenant | Contenu | Quantité | Notes |
 |-----------|---------|----------|-------|
-| Boîte Isotoner (recyclée) | Champignons séchés | 1 boîte | Type à préciser |
+| Boîte Isotoner (recyclée) | Chanterelles séchées | 1 boîte (bien remplie) | Cueillette Eyguians. Utilisées pour la blanquette de Pâques 2026 — il en reste plein ! |
 
 ## 🫙 Confitures
 
