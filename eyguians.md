@@ -5,13 +5,13 @@
 
 ---
 
-## 🍄 Champignons séchés
+## 🍄 Champignons séchés — *Cagibi à côté de la chambre Marie-Claire*
 
 | Contenant | Contenu | Quantité | Notes |
 |-----------|---------|----------|-------|
 | Boîte Isotoner (recyclée) | Chanterelles séchées | 1 boîte (bien remplie) | Cueillette René à Eyguians. Utilisées pour la blanquette de Pâques 2026 — il en reste plein ! |
 
-## 🫙 Confitures
+## 🫙 Confitures — *Étagère chambre Nord*
 
 ### Étagère 1
 
