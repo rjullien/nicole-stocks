@@ -9,7 +9,7 @@
 
 | Contenant | Contenu | Quantité | Notes |
 |-----------|---------|----------|-------|
-| Boîte Isotoner (recyclée) | Chanterelles séchées | 1 boîte (bien remplie) | Cueillette Eyguians. Utilisées pour la blanquette de Pâques 2026 — il en reste plein ! |
+| Boîte Isotoner (recyclée) | Chanterelles séchées | 1 boîte (bien remplie) | Cueillette René à Eyguians. Utilisées pour la blanquette de Pâques 2026 — il en reste plein ! |
 
 ## 🫙 Confitures
 
