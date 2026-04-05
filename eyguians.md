@@ -13,6 +13,8 @@
 
 ## 🫙 Confitures
 
+### Étagère 1
+
 | Parfum | Quantité | Année | Notes |
 |--------|----------|-------|-------|
 | Abricot | 4 pots | 2025 | |
@@ -28,7 +30,18 @@
 | Inconnu | 1 petit pot | ? | Date inconnue |
 | Inconnu | 6 pots | ? | Date inconnue |
 | Coing (gelée) | 1 pot | 2015 | |
-| Inconnu | 3 pots | ? | 🚗 Dans la voiture — à descendre à Nice |
+
+### Étagère 3
+
+| Parfum | Quantité | Année | Notes |
+|--------|----------|-------|-------|
+| Groseille noire | 13 pots | 2025 | |
+
+### 🚗 Dans la voiture (→ Nice)
+
+| Parfum | Quantité | Année | Notes |
+|--------|----------|-------|-------|
+| Inconnu | 3 pots | ? | À descendre à Nice |
 
 ---
 *Inventaire commencé le 5 avril 2026*
