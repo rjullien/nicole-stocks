@@ -7,6 +7,7 @@ Inventaire des stocks maison, tenu à jour par Léa 🌙
 - 🧊 [**Congélateur**](congelateur.md) — 79 articles sur 7 tiroirs
 - 🫙 [**Confitures**](confitures.md) — 76 pots sur 2 placards
 - 🏪 [**Réserves**](reserves.md) — placard 4 zones
+- 🏔️ [**Eyguians**](eyguians.md) — stock maison Hautes-Alpes
 - 💧 [**Arrosage Roquefort**](arrosage-roquefort/README.md) — système OpenSprinkler
 
 ## Comment ça marche ?
