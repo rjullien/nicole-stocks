@@ -20,6 +20,7 @@
 | Cassis | 2 pots | 2025 | +1 ajouté |
 | Cassis | 1 pot | 2024 | |
 | Cassis | 1 pot | 2023 | |
+| Groseille noire | 1 pot | 2020 | |
 
 ---
 *Inventaire commencé le 5 avril 2026*
