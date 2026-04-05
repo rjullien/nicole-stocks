@@ -16,13 +16,15 @@
 | Parfum | Quantité | Année | Notes |
 |--------|----------|-------|-------|
 | Abricot | 4 pots | 2025 | |
-| Prune | 3 pots | 2025 | |
+| Prune | 4 pots | 2025 | |
 | Cassis | 5 pots | 2025 | |
 | Groseille | 2 pots | 2025 | |
 | Cassis | 1 pot | 2023 | |
 | Groseille noire | 1 pot | 2020 | |
 | Figue | 1 pot | ? | Date inconnue |
 | Inconnu | 1 pot | ? | Date inconnue |
+| Inconnu | 1 petit pot | ? | Date inconnue |
+| Coing (gelée) | 1 pot | 2015 | |
 | Inconnu | 2 pots | ? | 🚗 Dans la voiture — à descendre à Nice |
 
 ---
