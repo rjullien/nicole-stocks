@@ -16,7 +16,7 @@
 | Parfum | Quantité | Année | Notes |
 |--------|----------|-------|-------|
 | Abricot | 4 pots | 2025 | |
-| Prune | 4 pots | 2025 | |
+| Prune | 8 pots | 2025 | |
 | Cassis | 5 pots | 2025 | |
 | Groseille | 2 pots | 2025 | |
 | Cassis | 1 pot | 2023 | |
