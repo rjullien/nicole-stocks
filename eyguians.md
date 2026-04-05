@@ -15,8 +15,9 @@
 
 | Parfum | Quantité | Année | Notes |
 |--------|----------|-------|-------|
-| Prune | 2 pots | 2025 | |
+| Prune | 3 pots | 2025 | |
 | Groseille | 2 pots | 2025 | |
+| Cassis | 2 pots | 2025 | +1 ajouté |
 | Cassis | 1 pot | 2024 | |
 | Cassis | 1 pot | 2023 | |
 
