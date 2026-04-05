@@ -21,6 +21,8 @@
 | Groseille | 2 pots | 2025 | |
 | Cassis | 1 pot | 2023 | |
 | Groseille noire | 1 pot | 2020 | |
+| Groseille noire | 4 pots | 2024 | |
+| Groseille noire | 1 pot | 202? | Date illisible |
 | Figue | 1 pot | ? | Date inconnue |
 | Inconnu | 1 pot | ? | Date inconnue |
 | Inconnu | 1 petit pot | ? | Date inconnue |
