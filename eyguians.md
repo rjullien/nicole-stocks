@@ -22,6 +22,7 @@
 | Cassis | 1 pot | 2023 | |
 | Groseille noire | 1 pot | 2020 | |
 | Figue | 1 pot | ? | Date inconnue |
+| Inconnu | 2 pots | ? | 🚗 Dans la voiture — à descendre à Nice |
 
 ---
 *Inventaire commencé le 5 avril 2026*
