@@ -17,7 +17,7 @@
 |--------|----------|-------|-------|
 | Prune | 3 pots | 2025 | |
 | Groseille | 2 pots | 2025 | |
-| Cassis | 3 pots | 2025 | |
+| Cassis | 5 pots | 2025 | |
 | Cassis | 1 pot | 2024 | |
 | Cassis | 1 pot | 2023 | |
 | Groseille noire | 1 pot | 2020 | |
