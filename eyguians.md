@@ -1,6 +1,7 @@
 # 🏔️ Stock Eyguians
 
 > Maison Eyguians (Hautes-Alpes) — Inventaire tenu par Léa 🌙
+> Confitures : faites par Nicole & René ou Marie-Claire
 > Dernière mise à jour : 5 avril 2026
 
 ---
@@ -9,7 +10,7 @@
 
 | Contenant | Contenu | Quantité | Notes |
 |-----------|---------|----------|-------|
-| Boîte Isotoner (recyclée) | Chanterelles séchées | 1 boîte (bien remplie) | Cueillette René à Eyguians. Utilisées pour la blanquette de Pâques 2026 — il en reste plein ! |
+| Boîte Isotoner (recyclée) | Chanterelles séchées | 1 boîte (bien remplie) | Cueillette Anne-Laure (Pierroy) à Eyguians. Utilisées pour la blanquette de Pâques 2026 — il en reste plein ! |
 
 ## 🫙 Confitures — *Étagère chambre Nord*
 
