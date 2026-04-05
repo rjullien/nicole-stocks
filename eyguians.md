@@ -48,9 +48,10 @@
 
 ### 🚗 Dans la voiture (→ Nice)
 
-| Parfum | Quantité | Année | Notes |
-|--------|----------|-------|-------|
-| Inconnu | 3 pots | ? | À descendre à Nice |
+| Produit | Quantité | Notes |
+|---------|----------|-------|
+| Confiture inconnue | 3 pots | À descendre à Nice |
+| Champignons séchés | 1 pot de miel (rempli) | ⚠️ Demander à Nicole où ranger |
 
 ---
 *Inventaire commencé le 5 avril 2026*
